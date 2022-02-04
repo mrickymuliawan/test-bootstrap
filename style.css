@@ -1,0 +1,10 @@
+.btn-purple{
+  background: purple;
+  color: white;
+  padding: 20px;
+}
+
+.btn-purple:hover{
+  background: rgb(180, 75, 180);
+  color: white;
+}
